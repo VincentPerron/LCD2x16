@@ -1,0 +1,7 @@
+Added Component: Designator=LCD1(LCM-S01602DTR/M)
+Added Pin To Net: NetName=RB6 Pin=LCD1-11
+Added Pin To Net: NetName=RB7 Pin=LCD1-12
+Added Pin To Net: NetName=RB8 Pin=LCD1-13
+Added Pin To Net: NetName=RB9 Pin=LCD1-14
+Added Class: Name=Schema
+Added Room: Name=Schema

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=RA0 Pin=P4-1
+Removed Pin From Net: NetName=RA1 Pin=P4-2
+Removed Pin From Net: NetName=RA2 Pin=P4-3
+Removed Pin From Net: NetName=RA3 Pin=P4-4
+Removed Pin From Net: NetName=RA4 Pin=P4-5
+Removed Pin From Net: NetName=RB0 Pin=P4-6
+Removed Pin From Net: NetName=RB1 Pin=P4-7
+Removed Pin From Net: NetName=RB2 Pin=P4-8
+Removed Pin From Net: NetName=RB3 Pin=P4-9
+Removed Pin From Net: NetName=RB4 Pin=P4-10
+Removed Pin From Net: NetName=RB5 Pin=P4-11
+Removed Pin From Net: NetName=RB6 Pin=P4-12
+Removed Pin From Net: NetName=RB7 Pin=P5-1
+Removed Pin From Net: NetName=RB8 Pin=P5-2
+Removed Pin From Net: NetName=RB9 Pin=P5-3
+Removed Pin From Net: NetName=RB10 Pin=P5-4
+Removed Pin From Net: NetName=RB11 Pin=P5-5
+Removed Pin From Net: NetName=RB12 Pin=P5-6
+Removed Pin From Net: NetName=RB13 Pin=P5-7
+Removed Pin From Net: NetName=RB14 Pin=P5-8
+Removed Pin From Net: NetName=RB15 Pin=P5-9
+Removed Pin From Net: NetName=5V Pin=P5-10
+Removed Pin From Net: NetName=3.3V Pin=P5-11
+Removed Pin From Net: NetName=GND Pin=P5-12
+Removed Member From Class: ClassName=Schema Member=P4
+Removed Member From Class: ClassName=Schema Member=P5
+Added Component: Designator=P1(HDR1X12)
+Added Component: Designator=P2(HDR1X12)
+Added Pin To Net: NetName=RA0 Pin=P1-1
+Added Pin To Net: NetName=RA1 Pin=P1-2
+Added Pin To Net: NetName=RA2 Pin=P1-3
+Added Pin To Net: NetName=RA3 Pin=P1-4
+Added Pin To Net: NetName=RA4 Pin=P1-5
+Added Pin To Net: NetName=RB0 Pin=P1-6
+Added Pin To Net: NetName=RB1 Pin=P1-7
+Added Pin To Net: NetName=RB2 Pin=P1-8
+Added Pin To Net: NetName=RB3 Pin=P1-9
+Added Pin To Net: NetName=RB4 Pin=P1-10
+Added Pin To Net: NetName=RB5 Pin=P1-11
+Added Pin To Net: NetName=RB6 Pin=P1-12
+Added Pin To Net: NetName=RB7 Pin=P2-1
+Added Pin To Net: NetName=RB8 Pin=P2-2
+Added Pin To Net: NetName=RB9 Pin=P2-3
+Added Pin To Net: NetName=RB10 Pin=P2-4
+Added Pin To Net: NetName=RB11 Pin=P2-5
+Added Pin To Net: NetName=RB12 Pin=P2-6
+Added Pin To Net: NetName=RB13 Pin=P2-7
+Added Pin To Net: NetName=RB14 Pin=P2-8
+Added Pin To Net: NetName=RB15 Pin=P2-9
+Added Pin To Net: NetName=5V Pin=P2-10
+Added Pin To Net: NetName=3.3V Pin=P2-11
+Added Pin To Net: NetName=GND Pin=P2-12
+Added Member To Class: ClassName=Schema Member=Component P1 Header 12
+Added Member To Class: ClassName=Schema Member=Component P2 Header 12
+Added Room: Name=Schema

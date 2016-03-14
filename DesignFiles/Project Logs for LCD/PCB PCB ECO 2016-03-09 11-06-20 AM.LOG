@@ -1,0 +1,5 @@
+Change Component Library : Designator=P1 Old Library=UQTR.IntLib New Library=Connectors.IntLib
+Change Component Library : Designator=P2 Old Library=UQTR.IntLib New Library=Connectors.IntLib
+Added Member To Class: ClassName=Schema Member=Component P1 Header 12
+Added Member To Class: ClassName=Schema Member=Component P2 Header 12
+Added Room: Name=Schema

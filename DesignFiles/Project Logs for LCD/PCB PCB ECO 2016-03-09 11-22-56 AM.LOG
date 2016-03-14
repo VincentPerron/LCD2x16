@@ -1,0 +1,5 @@
+Added Component: Designator=R1(RES1206R)
+Added Pin To Net: NetName=RA1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Member To Class: ClassName=Schema Member=Component R1 Res
+Added Room: Name=Schema

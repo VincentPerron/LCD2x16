@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RB7 Pin=LCD1-11
+Removed Pin From Net: NetName=RB8 Pin=LCD1-12
+Removed Pin From Net: NetName=RB9 Pin=LCD1-13
+Removed Pin From Net: NetName=RB10 Pin=LCD1-14
+Added Pin To Net: NetName=RB12 Pin=LCD1-11
+Added Pin To Net: NetName=RB13 Pin=LCD1-12
+Added Pin To Net: NetName=RB14 Pin=LCD1-13
+Added Pin To Net: NetName=RB15 Pin=LCD1-14
+Added Room: Name=Schema

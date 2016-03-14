@@ -1,0 +1,22 @@
+Added Component: Designator=B1(BoutonPoussoirMini)
+Added Component: Designator=D1(LED_GREEN)
+Added Component: Designator=R1(R_axial_0p25W)
+Added Component: Designator=R2(Potentiometer)
+Added Pin To Net: NetName=RA0 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=RA0 Pin=B1-3
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=RA1 Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=POT Pin=LCD1-3
+Added Pin To Net: NetName=POT Pin=R2-3
+Added Net: Name=POT
+Added Member To Class: ClassName=Schema Member=Component B1 BoutonPoussoir
+Added Member To Class: ClassName=Schema Member=Component D1 LED_GREEN
+Added Member To Class: ClassName=Schema Member=Component R1 Res
+Added Member To Class: ClassName=Schema Member=Component R2 ResVar
